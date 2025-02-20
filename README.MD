@@ -78,7 +78,7 @@ cd cyclistic-case-study
 ---
 
 ## 🏆 **About Me**  
-💡 *Junior Data Analyst | Passionate about data storytelling & analytics*  
+💡 *Junior Data Analyst | Software Developer | Passionate about data analytics and developing software*  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/prateekabbi) | [Portfolio](https://prateekabbi.netlify.app/)  
 
 🌟 **Star this repo** if you found it useful! 🚀  
